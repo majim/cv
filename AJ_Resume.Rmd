@@ -1,0 +1,184 @@
+---
+title: "Angeles Jimenez's resume"
+author: Angeles Jimenez
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Angeles Jimenez](https://github.com/majim/cv/blob/main/AJ%20picture.png){width=80%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> angeles.jimenez@amadeus.com
+- <i class="fa fa-github"></i> [github.com/majim](https://github.com/majim)
+- <i class="fa fa-phone"></i> +34 620-736103
+- For more information, please contact me via email.
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+Excel
+SPSS
+R
+Qlik
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Ángeles Jiménez {#title}
+--------------------------------------------------------------------------------
+
+### Currently searching for a high impact project.
+
+::: concise
+- Business insights expert with a strong customer facing consulting background. 
+
+- Analytical mindset; sharp focus on efficiency and measurable business impact.
+
+- Extensive Amadeus knowledge and network, based on previous customer experience positions spanning most functional and geographical areas.
+:::
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### BTA Commercial operations and strategy manager
+
+Defined 
+
+
+2014
+
+::: concise
+- Taught R language to beginners. 
+- Wrote Shiny app demos.
+- Converted statistical tutorials from SPSS to R language.
+:::
+
+### Bioinformatician
+
+My Health Gene Technology Co., Ltd.
+
+Beijing, China
+
+2015 - 2016
+
+::: concise
+- Analyzed whole-exome sequencing data. 
+- Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
+- Studied tumor metastasis and wrote research reports. 
+- Also did case studies to identify the genetic defect causing rare disease.
+:::
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Beijing University of Chemical Technology
+
+B.S. in Information and Computing Sciences
+
+Beijing, China
+
+2010
+
+Thesis: Dyadic wavelet and its application in edge detection
+
+### University of Chinese Academy of Sciences
+
+M.S. in Bioinformatics
+
+Beijing, China
+
+2014
+
+Thesis: A multi-omics study for intra-individual divergence of the distributions between mRNA isoforms in mammals
+
+
+Research Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Graduate Research Assistant
+
+Beijing Institute of Genomics, Chinese Academy of Sciences
+
+Beijing, China
+
+2011 - 2014
+
+- Performed computational biology research towards understanding regulation of alternative splicing in human and mouse transcriptome.
+- Found EGFR pathway related mutations, aimed to understand the impacts of cancer mutations on EGFR signaling pathway.
+
+### Bioinformatican
+
+My Health Gene Technology Co., Ltd.
+
+Beijing, China
+
+2015 - 2016
+
+- Investigated how cancer cells spread to other parts of the body at the single cell level.
+
+### Visiting Scientist
+
+University of Alabama at Birmingham
+
+AL, USA
+
+2016 - 2018
+
+- Investigated the role of mitochondria in development of cancer.
+- Investigated the evolution of genome architecture and its role in important evolutionary events.
+- Detected thrombotic thrombocytopenic purpura related mutations in mutiple patients' blood genome.
+  
+
+
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Customer analytics
+
+Instructor of Customer analytics at Madrid School of MArketing.
+Customer Lifetime Value, ROI and Segmentation
+
+2014-2016
+
+### Facts Based Consultancy.
+
+Led the in-house insight training (Facts Based Consultancy Team) to increase our ability to provide valuable insights to our customers
+
+2012
+
+
+Selected Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### “New trends in marketing and market research”.
+
+A collaboration between ESIC teachers and GfK’s market research experts, combining academic knowledge and professional expertise. I contributed with the Story Telling Chapter -or how to communicate insights effectively - and ROMI –or how to measure Marketing’s impact on business outcomes.
+
+2012
+
+**Angeles Jimenez**, Estefanía Yaguez, Maria Jose Merino and others.
