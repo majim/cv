@@ -1,21 +1,21 @@
 
 * {
   /* Override default margins*/
-  --pagedjs-margin-right: 0.2in;
-  --pagedjs-margin-left: 0.2in;
-  --pagedjs-margin-top: 0.2in;
-  --pagedjs-margin-bottom: 0.2in;
+  --pagedjs-margin-right: 0.3in;
+  --pagedjs-margin-left: 0.3in;
+  --pagedjs-margin-top: 0.43in;
+  --pagedjs-margin-bottom: 0.3in;
 }
 
 :root{
   --sidebar-width: 12rem;
-  --sidebar-background-color: #a2e2e2;
-  --decorator-border: 2px solid #a2e2e2; /* change color and thickness of timeline */
+  --sidebar-background-color: #EEECE1;
+  --decorator-border: 2px solid #EEECE1; /* change color and thickness of timeline */
 
 }
 
 .decorator::after{
-  background-color: #a2e2e2; /* change color timeline dots */
+  background-color: #948A54; /* change color timeline dots */
 
 }
 
