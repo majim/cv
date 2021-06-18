@@ -15,7 +15,7 @@ output:
 
 ```{r, include=FALSE}
 knitr::opts_chunk$set(
-  results='asis', 
+  results='asis', #
   echo = FALSE
 )
 
@@ -197,18 +197,18 @@ London, UK
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### ESIC, Madrid
+### Master in Commercial Management and Marketing
 
-Master in Commercial Management and Marketing
+ESIC
 
 Madrid, Spain
 
 1995 - 1994
 
 
-### University of Granada 
+### M.A. in Sociology
 
-M.A. in Sociology
+University of Granada
 
 Granada, Spain
 
@@ -219,15 +219,16 @@ Granada, Spain
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Madrid School of Marketing
+### Instructor of Customer analytics 
+Madrid School of Marketing. 
 Instructor of Customer analytics: customer Lifetime Value, ROI and Segmentation
 
 N/A
 
 2016 - 2014
 
-### GfK EMER
-Led the in-house insight training on Facts Based Consultancy.
+### Facts Based Consultancy in-house training
+GfK EMER
 
 N/A
 
