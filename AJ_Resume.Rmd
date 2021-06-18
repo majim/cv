@@ -87,7 +87,7 @@ Main
 Ángeles Jiménez {#title}
 --------------------------------------------------------------------------------
 
-### Open to new challenging projects.
+### 
 
 ::: concise
 - Business insights expert with a strong customer facing consulting background. 
@@ -137,9 +137,11 @@ Madrid, Spain
 2019 - 2014
 
 ::: concise
-- Definition of the customer experience vision & methodology.
-- Engaged other business units and DTS into that vision to co-create the Amadeus customer experience community.
-- Participated in the selection of the IT provider to get real time results, text analytics, and automated action planning.  
+- Defined the customer experience *vision* for Travel Channels.
+- Engaged other business units and IT to co-create the *Amadeus customer experience community*.
+- Evaluated the *technical and business fit* of the new Customer Experience IT provider.
+- Designed the *end to end solution* for CX management in Travel Channels, including the integration with Oneview & cleaning of contact data in collaboration with IT & Regions.
+- *Automated data processes*: feed via Oneview, Azure's translation API and natural language processing with ConfirmIT.
 :::
 
 ### Research Director
