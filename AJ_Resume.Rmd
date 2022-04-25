@@ -46,7 +46,7 @@ Contact Info {#contact}
 
 
 ```{r, include=FALSE}
-skills <- read.csv("skills.csv")
+skills <- read.csv("csv/language_skills.csv")
 # Construct a bar chart of skills
 build_skill_bars <- function(skills, out_of = 5){
   bar_color <- "#C4BD97"
@@ -98,21 +98,19 @@ Main
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### Business Travel - Commercial Strategy Manager
+### Commercial Operations: planning and performance manager, travel sellers & airlines
 
 Amadeus IT
 
 Madrid, Spain
 
-2021 - 2020
+2022 - 2021
 
+- Managed a team to perform reporting activities *monthly pipeline review*, *QBR*
+- Defined Region & Business domain alignment sessions.
+- Drove planning exercises *Budget*, *LTP*, *Sales targets* .
+- Created new planning models in Qlik: *IT market potential * & *air forecast* & *ADP* and new data driven tools: value calculator.
 - Defined a new *IT KPI framework* & engaged a multidisciplinary team.
-- Created new planning models: *IT market potential * & *air forecast*.
-- Standardized and implemented the new *ADP*  template.
-- Proof of concept with R for the *contract digitalization* project.
-- Supported Corporate Strategy with insights and a *business case* for the *multimodality project*.
-- Proof of concept and validation of new data driven commercial tools:
-    ADP qlik app | Value Calculators 
 
 
 ### Head of insights - Rail business unit
@@ -196,6 +194,13 @@ London, UK
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
+### Data strategy Executive Program, 80 hours, graduated with honors
+
+MIOTI
+
+Madrid, Spain
+
+2021 - 2022
 
 ### Master in Commercial Management and Marketing
 
